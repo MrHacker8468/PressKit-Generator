@@ -10,6 +10,13 @@ Press Kit AI Generator is an AI-powered tool designed to help users create profe
 - **Export Options**: Download the press kit in PDF and DOCX.
 - **AI-Powered Copywriting**: Enhances text with SEO-friendly and professional language.
 
+## Video Demo
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path-to-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 ## Installation
 ### Prerequisites
