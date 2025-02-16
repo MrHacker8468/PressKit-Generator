@@ -6,11 +6,10 @@ Press Kit AI Generator is an AI-powered tool designed to help users create profe
 
 ## Features
 - **Automated Press Kit Generation**: AI-driven content creation for company details, media bios, and product information.
-- **Customizable Templates**: Users can select from different templates and customize them to their needs.
 - **Media Asset Management**: Supports uploading and organizing images, logos, and other assets.
 - **Export Options**: Download the press kit in PDF and DOCX.
 - **AI-Powered Copywriting**: Enhances text with SEO-friendly and professional language.
-- **Multi-Language Support**: Generate press kits in multiple languages.
+
 
 ## Installation
 ### Prerequisites
