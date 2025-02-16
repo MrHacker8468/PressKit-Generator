@@ -11,10 +11,8 @@ Press Kit AI Generator is an AI-powered tool designed to help users create profe
 - **AI-Powered Copywriting**: Enhances text with SEO-friendly and professional language.
 
 ## Video Demo
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/1uOP5QLv7sMF7ixjhg0GCsdCoUWMK9V4E/preview" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://drive.google.com/file/d/1uOP5QLv7sMF7ixjhg0GCsdCoUWMK9V4E/preview" width="640" height="360" allow="autoplay"></iframe>
+
 
 
 ## Installation
