@@ -17,7 +17,6 @@ Press Kit AI Generator is an AI-powered tool designed to help users create profe
 </video>
 
 
-
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
@@ -153,7 +152,7 @@ Press Kit successfully exported to: output/NEXATECH_SOLUTIONS.pdf
 
 # Final Output Preview:
 
-![Final Output](images/OUTPUT.png)
+![Final Output](images/OUTPUT.PNG)
 
 ## Contributing
 1. Fork the repository
