@@ -34,7 +34,7 @@ Ensure you have the following installed:
    ```
    Example `.env` file:
    ```ini
-   API_KEY=your-api-key-here
+   GENAI_API_KEY=your-api-key-here
    ```
 
 4. Install dependencies:
