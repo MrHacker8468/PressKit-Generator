@@ -146,7 +146,7 @@ Press Kit successfully exported to: output/NEXATECH_SOLUTIONS.pdf
 
 # Final Output Preview:
 
-![Final Output](images/OUTPUT.png)
+![Final Output](images/OUTPUT.PNG)
 
 ## Contributing
 1. Fork the repository
