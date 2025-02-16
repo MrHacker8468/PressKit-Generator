@@ -1,0 +1,6 @@
+docx #Handles DOCX file creation and formatting.
+reportlab #Handles PDF file creation and formatting.
+rich #Handles console formatting and printing.
+typer  #Handles CLI input and output.
+google-generativeai #Handles AI-powered content generation.
+python-dotenv #Loads environment variables from .env file.
